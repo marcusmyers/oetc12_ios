@@ -3,9 +3,12 @@ Ohio Educational Technology Conference '12
 This code is for the sample application for OETC12
 
 Hands-on workshop to creating a valuable iOS App – 2/14/2012 @ 10am / C216
+
+
 Preparing for iOS Development
 
 Before you get started make sure your install XCode on your Mac and sign up as a free developer at http://developer.apple.com/programs/register/.  Please note we will be using Xcode v4.2.1 and iOS 5.0.1 SDK
+
 Download XCode from the Mac App Store - http://itunes.apple.com/us/app/xcode/id448457090?mt=12
 
 Apple Developer iOS Starting Point article - https://developer.apple.com/library/ios/#referencelibrary/GettingStarted/GS_iPhoneGeneral/_index.html#//apple_ref/doc/uid/TP40007853
