@@ -1,6 +1,8 @@
 //
 //  ViewController.m
 //  OETC12
+// 
+//  Root view controller for our app
 //
 //  Created by Mark Myers on 2/7/12.
 //  Copyright (c) 2012 Napoleon Area City Schools. All rights reserved.
@@ -21,7 +23,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+	// Here set the background color of the navigation bar to
+	// OETC Blue Color #83c1f2 
+	self.navigationController.navigationBar.tintColor = [UIColor colorWithRed:0.51f green:0.76f blue:0.95f alpha:1.0f];
 }
 
 - (void)viewDidUnload
